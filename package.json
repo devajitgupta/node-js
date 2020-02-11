@@ -1,14 +1,22 @@
 {
   "name": "js",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "author": "ajit",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devajitgupta/node-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devajitgupta/node-js/issues"
+  },
+  "homepage": "https://github.com/devajitgupta/node-js#readme",
+  "description": ""
 }
